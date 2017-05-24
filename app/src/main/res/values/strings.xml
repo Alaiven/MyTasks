@@ -3,4 +3,10 @@
     <string name="action_settings">Settings</string>
     <string name="add_task_descritpion">Task descrption</string>
     <string name="add_task_date">Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_task_done">DONE</string>
+    <string name="add_task_next">NEXT</string>
+    <string name="add_task_notify">Notify me</string>
 </resources>
